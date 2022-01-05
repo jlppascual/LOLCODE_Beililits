@@ -1,0 +1,54 @@
+HAI,CODE_DELIM,Code Delimiter
+I_HAS_A,VAR_DECL,Variable Declaration
+ITZ,VAR_ASN,Variable Assignment
+R,REASN_OP,Reassignment Operator
+WILE,COND_EXPR,Conditional Expression
+TIL,COND_EXPR,Conditional Expression
+IM_IN_YR,LOOP_DELIM,Loop Delimiter
+IM_OUTTA_YR,LOOP_DELIM,Loop Delimiter
+YR,LOOP_KEY,Loop Keyword
+NERFIN,LOOP_OP,Loop Operator
+UPPIN,LOOP_OP,Loop Operator
+SMOOSH,CONCAT_OP,Concat Operator
+DIFFRINT,COMP_OP,Comparison Operator
+BOTH_SAEM,COMP_OP,Comparison Operator
+ALL_OF,BOOL_OP,Boolean Operator
+ANY_OF,BOOL_OP,Boolean Operator
+NOT,BOOL_OP,Boolean Operator
+WON_OF,BOOL_OP,Boolean Operator
+EITHER_OF,BOOL_OP,Boolean Operator
+BOTH_OF,BOOL_OP,Boolean Operator
+SUM_OF,MATH_OP,Math Operator
+DIFF_OF,MATH_OP,Math Operator
+PRODUKT_OF,MATH_OP,Math Operator
+QUOSHUNT_OF,MATH_OP,Math Operator
+SMALLR_OF,MATH_OP,Math Operator
+BIGGR_OF,MATH_OP,Math Operator
+MOD_OF,MATH_OP,Math Operator
+O_RLY,COND_STATE,Conditional Statement
+YA_RLY,IFELSE_TRUE,If-else True
+MEBBE,IFELSE_ELIF,If-else Elif
+NO_WAI,IFELSE_FALSE,If-else False
+OMG,SWITCH_CASE,Switch Case
+OMGWTF,SWITCH_DEFAULT,Switch Default
+WTF,COND_STATE,Conditional Statement
+AN,AND_KEY,And Key
+GIMMEH,INPUT_OP,Input Operator
+VISIBLE,PRINT_OP,Print Operator
+IS_NOW_A,REASN_OP,Reasn Operator
+MAEK,TYPECAST_OP,Typecast Operator
+BTW,S_COMM,S Commerator
+OBTW,L_COMM_DELIM,Long Comment Delimiter
+TLDR,L_COMM_DELIM,Long Comment Delimiter
+VARIDENT,VAR_IDEN,Var Identifier
+FUNCIDENT,FUNC_IDEN,Func Identifier
+LOOPIDENT,LOOP_IDEN,Loop Identifier
+VALIDENT,LITERAL,Literal
+NUMBAR,VAR_TYPE,Literal 
+NUMBR,VAR_TYPE,Literal
+YARN,VAR_TYPE,Literal
+TROOF,VAR_TYPE,Literal
+GTFO,BREAK_KEY,Break Key
+OIC,COND_END,Conditional Statement End
+KTHXBYE,CODE_DELIM,Code Delimiter
+A,EQUAL,Equal Operator
